@@ -1,4 +1,4 @@
-### Olá, eu sou o Marcelo Melo!
+### Olá, eu sou o Marcelo!
 
 ##
 
@@ -14,7 +14,7 @@
   <img align="center" alt="Marcelo-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Marcelo-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Marcelo-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Marcelo-Salesforce" height="60" width="70" src="https://salesforcecodex.com/wp-content/uploads/2019/08/SalesforceCodex_Apex-e1566962527231.png">
+  <img align="center" alt="Marcelo-Salesforce" height="60" width="70" src="https://cdn-icons-png.flaticon.com/512/5968/5968914.png">
   <img align="center" alt="Marcelo-Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
 </div>
 
